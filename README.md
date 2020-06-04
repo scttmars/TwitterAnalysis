@@ -1,0 +1,2 @@
+# Twitter Analysis
+ For this assignment you will analyze Twitter data collected by researchers in Elon’s School of Education. The dataset consists of tweets sent between 3/18/16 and 5/31/16 which include the hashtag #enviroed, a topic used by educators interested in environmental education. The goal is to bring together and apply to a real-world dataset a wide variety of different analysis and visualization techniques you’ve used over the course of the semester with open-ended tasks that ask you to make an appropriate visualization and analyze it.
